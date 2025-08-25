@@ -59,3 +59,13 @@ The benchmark images can be downloaded from [this link](https://example.com/down
 | LLaVA-Med-v1.5         | 15.01 | 12.54     | 15.09  | 7.66  |
 | HuatuoGPT-Vision       | 30.31 | 34.40     | 30.87  | 28.31 |
 | HuatuoGPT-Vision       | 35.48 | 36.52     | 36.40  | 32.71 |
+
+For further comparison, we also invited four neurosurgical specialist trainees to compare their performance with the best-performing model on a subset of the dataset.
+
+| Participant                      | Acc  |
+|----------------------------------|------|
+| Neurosurgical Specialist Trainees 1 | 0.48 |
+| Neurosurgical Specialist Trainees 2 | 0.28 |
+| Neurosurgical Specialist Trainees 3 | 0.56 |
+| Neurosurgical Specialist Trainees 4 | 0.54 |
+| Gemini-2.0-Flash                 | 0.36 |
