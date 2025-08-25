@@ -24,7 +24,7 @@ We also provide the processed video annotation in VideoAnnoated.json. If you nee
 
 
 
-Please note: Benchmark images are not included in this repository.
+**Note**: Benchmark images are not included in this repository.
 The benchmark images can be downloaded from [this link](https://example.com/download-link).
 
 ## ✍ Testing Results 
