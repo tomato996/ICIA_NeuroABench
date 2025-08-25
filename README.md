@@ -19,7 +19,10 @@ experts’ selection. From these images, we generate question-and-answer pairs f
 
 ## 📚 Dataset
 
+The benchmark text data used in this project is provided in the xxx.json file.
 
+Please note: Benchmark images are not included in this repository.
+The benchmark images can be downloaded from [this link](https://example.com/download-link).
 
 ## ❓ Testing Model 
 
