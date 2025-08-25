@@ -26,10 +26,6 @@ The benchmark images can be downloaded from [this link](https://example.com/down
 
 ## ✍ Testing Results 
 
-| Model                | Acc   | Precision | Recall | F1    |
-|----------------------|-------|-----------|--------|-------|
-| Random               | 19.48 | 19.99     | 20.01  | 19.96 |
-
 #### Open-Source MLLMs
 
 | Model                  | Acc   | Precision | Recall | F1    |
