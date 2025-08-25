@@ -20,6 +20,9 @@ experts’ selection. From these images, we generate question-and-answer pairs f
 ## 📚 Dataset
 
 The benchmark text data used in this project is provided in the xxx.json file.
+We also provide the processed video annotation files. If you need the original video resources, please obtain permission from Atlas[this link](https://www.neurosurgicalatlas.com/) and download the original videos.
+
+
 
 Please note: Benchmark images are not included in this repository.
 The benchmark images can be downloaded from [this link](https://example.com/download-link).
